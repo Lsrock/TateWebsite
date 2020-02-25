@@ -1,0 +1,15 @@
+.ui.borderless.topmenu.menu{
+  border: none;
+}
+
+.ui.top.container{
+  color: white;
+  background-image: url("https://www.tate.org.uk/sites/default/files/tm_exh_0067_maar_web_v2.jpg");
+  padding: 200px 400px;
+}
+
+.ui.member.container{
+  color: white;
+  background-image: url("https://www.tate.org.uk/sites/default/files/n03420_10_1.jpg");
+  padding: 200px 400px;
+}
