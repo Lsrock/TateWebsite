@@ -2,6 +2,10 @@
   border: none;
 }
 
+.logo{
+  transform: translateX(155px);
+}
+
 .dora.mar{
   background: url('https://www.tate.org.uk/sites/default/files/tm_exh_0067_maar_web_v2.jpg') no-repeat center center fixed;
   background-size: cover;
@@ -49,9 +53,11 @@
   box-shadow: none;
 }
 
-.ui.center.aligned.topTwoMenu.menu.cc_cursor{
-  border: none;
+.ui.center.aligned.container{
   box-shadow: none;
+  border: none;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .footer-two{
