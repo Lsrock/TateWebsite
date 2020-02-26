@@ -2,14 +2,58 @@
   border: none;
 }
 
-.ui.top.container{
+.dora.mar{
+  background: url('https://www.tate.org.uk/sites/default/files/tm_exh_0067_maar_web_v2.jpg') no-repeat center center fixed;
+  background-size: cover;
+  height: 500px;
   color: white;
-  background-image: url("https://www.tate.org.uk/sites/default/files/tm_exh_0067_maar_web_v2.jpg");
+}
+
+.member.container{
+  background: url('https://www.tate.org.uk/sites/default/files/n03420_10_1.jpg') no-repeat center center fixed;
+  background-size: cover;
+  height: 500px;
+  color: white;
   padding: 200px 400px;
 }
 
-.ui.member.container{
-  color: white;
-  background-image: url("https://www.tate.org.uk/sites/default/files/n03420_10_1.jpg");
-  padding: 200px 400px;
+.ui.gallery.container{
+  padding-top: 20px;
+}
+
+.ui.exhibitionsandevents.container{
+  padding-top: 20px;
+}
+
+.ui.gallery.container{
+  padding-top: 20px;
+}
+
+.ui.shop.container{
+  padding-top: 20px;
+}
+
+.ui.borderless.seeall.menu{
+  border: none;
+  box-shadow: none;
+}
+
+.ui.borderless.moreart.menu{
+  border: none;
+  box-shadow: none;
+}
+
+.ui.borderless.shop.menu{
+  border: none;
+  box-shadow: none;
+}
+
+.ui.center.aligned.topTwoMenu.menu.cc_cursor{
+  border: none;
+  box-shadow: none;
+}
+
+.footer-two{
+  padding-right: 80px;
+  padding-left: 80px;
 }
